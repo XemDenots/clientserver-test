@@ -1,0 +1,9 @@
+# --------------------------------
+# Jorge Alberto Cervantes Montiel
+# 20190804
+# --------------------------------
+
+./bin/
+./CMakeFiles/
+CMakeCache.txt
+
